@@ -38,7 +38,7 @@ export default [
       rating: 4.8,
       reviewCount: 2,
     },
-    location: "Sweden",
+    location: "Russia",
     openSpots: 3,
   },
 ];
